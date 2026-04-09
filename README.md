@@ -63,7 +63,7 @@ The raw socket backend requires no external capture libraries. On Windows, it us
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/network-analyzer.git
+git clone https://github.com/TechnoScheme007/network-analyzer.git
 cd network-analyzer
 
 # Install dependencies
