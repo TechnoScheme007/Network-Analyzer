@@ -1,0 +1,5 @@
+PySide6>=6.5.0
+
+# Optional: install for enhanced capture (Ethernet frames, ARP, full BPF filters)
+# Also requires Npcap (https://npcap.com/) on Windows
+# scapy>=2.5.0
