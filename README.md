@@ -17,11 +17,6 @@ A lightweight, open-source packet capture and analysis tool with a native deskto
 - **Zero External Drivers** — works out of the box on Windows using raw sockets; optionally supports Scapy + Npcap for enhanced capture
 - **Auto-Detects Active Interface** — automatically selects the network interface with the default gateway IP
 
-## Screenshots
-
-<!-- Add screenshots of your running application here -->
-<!-- ![Main Window](screenshots/main.png) -->
-
 ## Architecture
 
 ```
